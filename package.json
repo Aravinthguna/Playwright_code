@@ -1,0 +1,21 @@
+{
+  "name": "ui_playwright",
+  "version": "1.0.0",
+  "description": "To make it easy for you to get started with GitLab, here's a list of recommended next steps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:lead": "playwright test leadListPage.spec.js",
+    "test:pipeline": "playwright test leadListPage.spec.js -g \"Pipeline Funnel Report\"",
+    "test:source": "playwright test leadListPage.spec.js -g \"Source Report\"",
+    "test:stock": "playwright test tests/stock/createStock.spec.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^20.8.9",
+    "dotenv": "^17.2.3"
+  }
+}

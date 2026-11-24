@@ -1,0 +1,93 @@
+{
+  "login": {
+    "enabled": true,
+    "LG0001": false,
+    "LG0002": false,
+    "LG0003": false,
+    "LG0004": false,
+    "LG0005": false,
+    "LG0006": false,
+    "LG0007": false,
+    "LG0008": false,
+    "LG0009": false,
+    "LG0010": false,
+    "LG0011": false,
+    "LG0012": false,
+    "LG0013": false,
+    "LG0014": false,
+    "LG0015": false
+  },
+  "leadList": {
+    "enabled": true,
+    "createLead": true,
+    "editLead": false,
+    "leadActivites": false,
+    "pipelinePage": false,
+    "sourceReport": false,
+    "pipelineFunnel": false,
+    "teamsReport": false,
+    "statusReport": false,
+    "trendReport": false,
+    "createContact" :false,
+    "spamLead" : false,
+    "Unverified Lead" :false,
+    "Contact List" : false,
+    "Call Manager and History" : false,
+    "leadCsvUpload" : false
+  },
+  "leadCsvUpload": {
+    "enabled": true
+  },
+  "mySite": {
+    "enabled": true,
+    "mysite": true,
+    "themePage": true,
+    "homePage": true,
+    "storePage": true,
+    "onboardPartners": true,
+    "contactUs": true
+  },
+  "partners": {
+    "enabled": false,
+    "createLead": false,
+    "switchAccount": false
+  },
+  "stock": {
+    "enabled": true,
+    "createApartment": true,
+    "createVilla": true,
+    "createRowHouse": true,
+    "createPlot": true,
+    "createSecondaryResaleFlat": true,
+    "createSecondaryResaleHouse": true,
+    "createSecondaryResalePlot": true,
+    "createSecondaryRentFlat": true,
+    "createSecondaryRentHouse": true,
+    "createSecondaryRentPlot": true
+  },
+  "accountSettings": {
+    "enabled": true,
+    "companySettings": true,
+    "kycDetails": true,
+    "seoDetails": true,
+    "staffManagement": true,
+    "addStaff": true,
+    "editStaff": true,
+    "deleteStaff": true,
+    "sourceManagement": true,
+    "leadSettings": true,
+    "createTeam": true,
+    "editTeam": true,
+    "deleteTeam": true,
+    "pipelineManagement": true,
+    "addPipeline": true,
+    "editPipeline": true,
+    "addBucket": true,
+    "clonePipeline": true,
+    "associateTeam": true,
+    "replaceTeam": true,
+    "removeTeam": true,
+    "savePipeline": true,
+    "deletePipeline": true
+  }
+}

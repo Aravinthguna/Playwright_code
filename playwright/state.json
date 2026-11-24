@@ -1,0 +1,48 @@
+{
+  "cookies": [
+    {
+      "name": "_GRECAPTCHA",
+      "value": "09ADVlMi8TPd3SGC0b_Fz8UpZ_LrzPW3316usktKSQtex7W1cd0H1TM3nqeGk9ldPKbsoKeN4P-CMU4lWWLcnhEcE",
+      "domain": "www.google.com",
+      "path": "/recaptcha",
+      "expires": 1722772895.85285,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ri_s_id",
+      "value": "-5952543653687440557",
+      "domain": ".realitiindia.com",
+      "path": "/",
+      "expires": 1707825697.393269,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://stageapp.realitiindia.com",
+      "localStorage": [
+        {
+          "name": "_grecaptcha",
+          "value": "09ADVlMi--Lq6j7kic803ZoDfP6Gygyn56cLTsFgPIqQzmoOEmi3BT5RQzMnW7S2WIKh0BQVlhY3zZLPZSJk7AWvfzS4WUwjN3evBsMQ"
+        }
+      ]
+    },
+    {
+      "origin": "https://www.google.com",
+      "localStorage": [
+        {
+          "name": "rc::a",
+          "value": "NnBrYWl1c2l4bjB3"
+        },
+        {
+          "name": "rc::f",
+          "value": "0aADVlMi94s1AMAQ6l_QV3rttjRbid4zNhN7JHbxb8JVqA-A8tv2bqF-j2b24kz8V5g5cAz6Q"
+        }
+      ]
+    }
+  ]
+}
